@@ -1,10 +1,12 @@
 <div id="header" align="center">
   <a href="https://github.com/rsakib15"><p><img width="180" src="https://github.com/rsakib15/rsakib15/blob/main/images/silly wave.png"></p></a>
-  <h3 height="0">Hi, I'm Sakib Rahman</h3>
+  <h3>Hi, I'm Sakib Rahman</h3>
   <p>A passionate software developer</p>
   <a href="https://github.com/rsakib15"><img src="https://komarev.com/ghpvc/?username=rsakib15&label=Profile%20views&color=0e75b6&style=flat" alt="rsakib15"/></a>
   <a href="https://github.com/rsakib15"><img src="https://img.shields.io/github/followers/rsakib15?label=Followers" alt="rsakib15"/></a>
 </div>
+
+## About Me
 
 ## Skills
 
@@ -14,9 +16,13 @@
 
 **Libraries and Frameworks**
 
-<img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">|<img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">|<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">|<img title="VueJS" alt="VueJS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png">|<img title="NodeJS" alt="NodeJS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">
-|--|--|--|--|--|
+<img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">|<img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">|<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">|<img title="VueJS" alt="VueJS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png">|<img title="NodeJS" alt="NodeJS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">|<img title="Tailwind" alt="Tailwind" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png">|<img title="JQuery" alt="JQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">|<img title="Ethereum" alt="Ethereum" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ethereum/ethereum.png">
+|--|--|--|--|--|--|--|--|
 
+**Cloud**
+
+<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png">|<img title="GCP" alt="GCP" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/gcp/gcp.png">|<img title="Heroku" alt="Heroku" width="40px" src="https://img.icons8.com/color/48/000000/heroku.png">
+|--|--|--|
 
 
 
@@ -25,7 +31,7 @@
   <a href="https://github.com/rsakib15/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rsakib15#version3"/></a>
 </div>
 
-## ⚙️ &nbsp; GitHub Analytics
+## ⚙️ GitHub Analytics
 
 <div align="center">
   <a href="https://github.com/rsakib15">
