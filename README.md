@@ -8,6 +8,7 @@
 
 ## 💁‍♂ About Me
 ✔ Pronouns: ***He/His*** or ***TeamMaker***<br>
+✔ I am currently studying at **Shanghai Jiao Tong University**<br>
 ✔ I’m currently learning **ReactJS** & **NodeJS**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ I use to write code on [Leetcode](https://leetcode.com/sakibrahman/) <br>
