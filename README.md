@@ -7,6 +7,11 @@
 </div>
 
 ## 💁‍♂ About Me
+✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
+✔ I’m currently learning **ReactJS** & **NodeJS**<br>
+✔ I’m looking to collaborate with any **Open - Source contribution**<br>
+✔ I use to write code on [leetcode](https://leetcode.com/Akash_Chowrasia/) <br>
+✔ Ask me about anything, I am happy to help !!<br>
 
 ## 🛠️ Skills
 
