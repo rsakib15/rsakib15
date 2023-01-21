@@ -6,9 +6,8 @@
 </div>
 
 
-### 🤝 Connect with me
+## 🤝 Connect with me
 <div align="left">
-<br>
   
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakibrahman/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sakib_r_/)
@@ -16,7 +15,7 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srskb15@gmail.com)
 </div>
 
-### 🐍 Snake eating my contribution
+## 🐍 Snake eating my contribution
 <div id="snake-animation" align="center">
    <img src = "https://github.com/rsakib15/rsakib15/blob/output/github-contribution-grid-snake.svg" width="100%">
 </div>
