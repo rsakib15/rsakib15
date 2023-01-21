@@ -6,9 +6,9 @@
   <a href="https://github.com/rsakib15"><img src="https://img.shields.io/github/followers/rsakib15?label=Followers" alt="rsakib15"/></a>
 </div>
 
-## About Me
+## 💁‍♂ About Me
 
-## Skills
+## 🛠️ Skills
 
 **Programming Languages**
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="TypeScript" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png">|<img title="Solidity" alt="Solidity" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/solidity/solidity.png">
@@ -26,8 +26,8 @@
 
 **Tools**
 
-<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="ZSH" alt="ZSH" width="40px" src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
-|--|--|--|--|--|
+<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="ZSH" alt="ZSH" width="40px" src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Github" alt="Github" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
+|--|--|--|--|--|--|
 
 **Cloud**
 
@@ -51,7 +51,7 @@
 </div>
 
 
-## Trophies
+## 🏆 Trophies
 
 <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="rsakib15">
