@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <a href="https://github.com/rsakib15"><p><img width="180" src="https://github.com/rsakib15/rsakib15/blob/main/images/silly wave.png"></p></a>
+  <a href="https://github.com/rsakib15"><p><img width="150" src="https://github.com/rsakib15/rsakib15/blob/main/images/silly wave.png"></p></a>
   <h3>Hi, I'm Sakib Rahman</h3>
   <p>A passionate software developer</p>
   <a href="https://github.com/rsakib15"><img src="https://komarev.com/ghpvc/?username=rsakib15&label=Profile%20views&color=0e75b6&style=flat" alt="rsakib15"/></a>
