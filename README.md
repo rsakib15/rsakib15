@@ -6,8 +6,6 @@
   <a href="https://github.com/rsakib15"><img src="https://img.shields.io/github/followers/rsakib15?label=Followers" alt="rsakib15"/></a>
 </div>
 
-<hr>
-
 ## Skills
 
 **Programming Languages**
