@@ -8,6 +8,41 @@
 
 <hr>
 
+## Skills
+
+**Programming Languages**
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
+|--|--|--|
+
+## 🔥 My contribution streak
+<div align="center">
+  <a href="https://github.com/rsakib15/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rsakib15#version3"/></a>
+</div>
+
+## ⚙️ &nbsp; GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/rsakib15">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rsakib15&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rsakib15&layout=compact&exclude_lang=java+r+css+text&theme=vue-light" />
+  </a>
+</div>
+
+
+## Trophies
+
+<div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="rsakib15">
+      <img align="center" src="https://github-profile-trophy.vercel.app/?username=rsakib15&theme=vue-light&column=7" alt="rsakib15" />
+    </a>
+</div>
+
+
+## 🐍 Snake eating my contribution
+<div align="center">
+   <img align="center" src="https://github.com/rsakib15/rsakib15/blob/output/github-contribution-grid-snake.svg" width="100%">
+</div>
+
 
 ## 🤝 Connect with me
 <div align="left">
@@ -16,9 +51,4 @@
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sakib_r_/)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sakibrahmanbd)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srskb15@gmail.com)
-</div>
-
-## 🐍 Snake eating my contribution
-<div id="snake-animation" align="center">
-   <img src = "https://github.com/rsakib15/rsakib15/blob/output/github-contribution-grid-snake.svg" width="100%">
 </div>
