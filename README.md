@@ -65,12 +65,6 @@
 </div>
 
 
-## 🐍 Snake eating my contribution
-<div align="center">
-   <img align="center" src="https://github.com/rsakib15/rsakib15/blob/output/github-contribution-grid-snake.svg" width="100%">
-</div>
-
-
 ## 🤝 Connect with me
 <div align="left">
   
