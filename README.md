@@ -11,6 +11,11 @@
 ✔ I use to write code on [Leetcode](https://leetcode.com/sakibrahman/) <br>
 ✔ Ask me about anything, I am happy to help !!<br>
 
+
+✨ Check out my personal portfolio to explore my projects, achievements, and blogs:  
+🔗 [**rsakib.com**](https://rsakib.com)
+
+
 ## 🛠️ Skills
 
 **Programming Languages**
